@@ -1,0 +1,12 @@
+0  o8_rear_1
+1  o8_rear_2
+2  o8_rear_3
+3  o8_rear_4
+4  o8_rear_5
+5  o8_front_1
+6  o8_front_2
+7  o8_front_3
+8  o8_front_4
+9  o8_front_5
+10  o8_front_6
+11  o8_front_7

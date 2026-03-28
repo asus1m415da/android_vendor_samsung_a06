@@ -1,6 +1,26 @@
 #
 # Automatically generated file. DO NOT MODIFY
 #
+#
+# Copyright (C) 2026 The LineageOS Project
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# Maintained by: asus1m415da (Eduardo Gabriel)
+# Device: Samsung Galaxy A06 (SM-A065F/M)
+# Platform: MediaTek MT6768 (Helio G85)
+# Base Firmware: Android 15 (One UI 7) Blobs
+#
 
 PRODUCT_SOONG_NAMESPACES += \
     vendor/samsung/a06

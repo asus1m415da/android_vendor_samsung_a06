@@ -41,6 +41,6 @@ Add this to your `.repo/local_manifests/roomservice.xml`:
 ⚖️ Credits & Notices
  * Lead Maintainer: asus1m415da
  * Source: Official Android 15 (One UI 7) Blobs.
- * Special thanks: To the Galaxy A06 developer community.
+ * Special thanks: To the Galaxy A06 developer community. https://t.me/samsunga06dev/
 > [!IMPORTANT]
 > If you fork this repository or use these blobs in your project, please provide proper credit to the original maintainer.
